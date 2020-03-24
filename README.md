@@ -20,5 +20,5 @@ You can use the desktop version of draw.io or the browser based version for the 
 Once the chart has been generated, you can move the boxes around using draw.io to suit how you'd like the chart to look.  Once you're
 satisfied with how the chart looks, you can export the org chart as a .png or .jpg.  
 
-There's a handle plug-in available here that you add to Powerpoint that allows you to insert the .drawio file: 
+There's a plug-in available here that you add to Powerpoint that allows you to insert the .drawio file: 
 https://store.office.com/addinsinstallpage.aspx?rs=en-001&assetid=WA200000113 
