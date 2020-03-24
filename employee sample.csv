@@ -1,7 +1,7 @@
-name,position,manager,fill,stroke,width,height
-Sam Smith,VP of IT,,#dae8fc,#6c8ebf,100,75
-James Davis,Manager of Systems,Sam Smith,#dae8fc,#6c8ebf,100,75
-Jane Doe,Infrastructure Analyst,Sam Smith,#dae8fc,#6c8ebf,100,75
-Jon Adams,Helpdesk Tech,Sam Smith,#dae8fc,#6c8ebf,100,75
-Bill Jones,IT Analyst,Sam Smith,#dae8fc,#6c8ebf,100,75
-Carl Marks,IT Analyst,Sam Smith,#dae8fc,#6c8ebf,100,75
+name,position,manager,width,height
+Sam Smith,VP of IT,,100,75
+James Davis,Manager of Systems,Sam Smith,100,75
+Jane Doe,Infrastructure Analyst,Sam Smith,100,75
+Jon Adams,Helpdesk Tech,Sam Smith,100,75
+Bill Jones,IT Analyst,Sam Smith,100,75
+Carl Marks,IT Analyst,Sam Smith,100,75

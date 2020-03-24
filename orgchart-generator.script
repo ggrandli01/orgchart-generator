@@ -13,8 +13,7 @@
 ## Node style (placeholders are replaced once).
 ## Default is the current style for nodes.
 #
-## style: label;whiteSpace=wrap;html=1;rounded=0;fillColor=%fill%;Color=%stroke%;
-# style: html=1;rounded=0;fillColor=%fill%;strokeColor=%stroke%;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;
+# style: html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;
 #
 ## Uses the given column name as the identity for cells (updates existing cells).
 ## Default is no identity (empty value or -).
@@ -49,13 +48,13 @@
 ## Node width. Possible value is a number (in px), auto or an @ sign followed by a column
 ## name that contains the value for the width. Default is auto.
 #
-# width: @width
+# width: 100
 ## width: auto
 #
 ## Node height. Possible value is a number (in px), auto or an @ sign followed by a column
 ## name that contains the value for the height. Default is auto.
 #
-# height: @height
+# height: 75
 ## height: auto
 #
 ## Padding for autosize. Default is 0.
@@ -86,3 +85,10 @@
 # layout: auto
 #
 ## ---- CSV below this line. First line are column names. ----
+name,position,manager
+Sam Smith,VP of IT,,
+James Davis,Manager of Systems,Sam Smith
+Jane Doe,Infrastructure Analyst,Sam Smith
+Jon Adams,Helpdesk Tech,Sam Smith
+Bill Jones,IT Analyst,Sam Smith
+Carl Marks,IT Analyst,Sam Smith
