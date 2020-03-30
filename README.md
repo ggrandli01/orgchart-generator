@@ -8,7 +8,7 @@ You can use the desktop version of draw.io or the browser based version for the 
 
 1. Open draw.io
 2. Open orgchart-generator.script using your favorite text editor.
-3. Create the .csv file of the personnel you want to document in the org chart.  Specify the employee name, position, manager.
+3. Create the .csv file of the personnel you want to document in the org chart.  Specify the employee name, position, manager.  You can      leave the width and height (100, 75) as they are.
    The employee.sample file contains what the data format should look like.  Be sure to include the field names at the top of
    the file.
 4. Copy the employee data at the bottom of the orgchart-generator.script.
