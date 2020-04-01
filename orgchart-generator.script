@@ -13,7 +13,7 @@
 ## Node style (placeholders are replaced once).
 ## Default is the current style for nodes.
 #
-# style: html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;
+# style: html=1;rounded=0;fillColor=#ffffff;strokeColor=#000000;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;
 #
 ## Uses the given column name as the identity for cells (updates existing cells).
 ## Default is no identity (empty value or -).
